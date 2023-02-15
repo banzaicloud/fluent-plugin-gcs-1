@@ -1,3 +1,7 @@
+> # ⚠️ Repository moved
+>
+> New location: https://github.com/kube-logging/fluent-plugin-gcs
+
 # fluent-plugin-gcs
 [![Gem Version](https://badge.fury.io/rb/fluent-plugin-gcs.svg)](https://badge.fury.io/rb/fluent-plugin-gcs) [![Build Status](https://travis-ci.org/daichirata/fluent-plugin-gcs.svg?branch=master)](https://travis-ci.org/daichirata/fluent-plugin-gcs) [![Code Climate](https://codeclimate.com/github/daichirata/fluent-plugin-gcs/badges/gpa.svg)](https://codeclimate.com/github/daichirata/fluent-plugin-gcs)
 
